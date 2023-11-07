@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/webliu/Ubuntu_18.04.3_64_Desktop/build",
+  "command": "/usr/bin/g++   -I/home/webliu/Ubuntu_18.04.3_64_Desktop/StopWait/include  -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/StopWait.cpp.o -c /home/webliu/Ubuntu_18.04.3_64_Desktop/StopWait/src/StopWait.cpp",
+  "file": "/home/webliu/Ubuntu_18.04.3_64_Desktop/StopWait/src/StopWait.cpp"
+},
+{
+  "directory": "/home/webliu/Ubuntu_18.04.3_64_Desktop/build",
+  "command": "/usr/bin/g++   -I/home/webliu/Ubuntu_18.04.3_64_Desktop/StopWait/include  -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/StopWaitRdtReceiver.cpp.o -c /home/webliu/Ubuntu_18.04.3_64_Desktop/StopWait/src/StopWaitRdtReceiver.cpp",
+  "file": "/home/webliu/Ubuntu_18.04.3_64_Desktop/StopWait/src/StopWaitRdtReceiver.cpp"
+},
+{
+  "directory": "/home/webliu/Ubuntu_18.04.3_64_Desktop/build",
+  "command": "/usr/bin/g++   -I/home/webliu/Ubuntu_18.04.3_64_Desktop/StopWait/include  -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/StopWaitRdtSender.cpp.o -c /home/webliu/Ubuntu_18.04.3_64_Desktop/StopWait/src/StopWaitRdtSender.cpp",
+  "file": "/home/webliu/Ubuntu_18.04.3_64_Desktop/StopWait/src/StopWaitRdtSender.cpp"
+}
+]

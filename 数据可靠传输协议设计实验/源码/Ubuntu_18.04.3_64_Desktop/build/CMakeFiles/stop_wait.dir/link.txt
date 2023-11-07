@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/stop_wait.dir/src/StopWait.cpp.o CMakeFiles/stop_wait.dir/src/StopWaitRdtReceiver.cpp.o CMakeFiles/stop_wait.dir/src/StopWaitRdtSender.cpp.o  -o /home/webliu/Ubuntu_18.04.3_64_Desktop/StopWait/bin/stop_wait  /home/webliu/Ubuntu_18.04.3_64_Desktop/StopWait/lib/libnetsim.a 
