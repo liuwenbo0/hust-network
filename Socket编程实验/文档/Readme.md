@@ -2,7 +2,7 @@
 
 ## 平台
 
-windows下的vscode
+windows平台下的vscode
 
 ## 注意
 
